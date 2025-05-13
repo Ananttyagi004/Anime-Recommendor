@@ -29,7 +29,7 @@ A Django REST API that allows user registration, login with JWT authentication, 
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Ananttyagi004/Anime-Recommendor
 cd your-repo
 ````
 
